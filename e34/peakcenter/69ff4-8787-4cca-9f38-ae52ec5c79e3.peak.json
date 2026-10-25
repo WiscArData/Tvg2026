@@ -1,0 +1,42 @@
+{
+    "Ax": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfTfblCtmxCF9imuUk8sUIX3c+5TGKWQhfi+blEciZCF+giuTiEAkIX7Uu5QVWTQhfydLlQ3klCF/eeuS3Ky0IX/Me49gJfQhgB8LiqkKtCGAcZuJsWuUIYDEK4kCrKQhgRbLiBX8NCGBaVuKqcGUIYG764qO6/Qhgg57irAwdCGCYQuLYyfEIYKzq5DWDeQhgwY7lAxIJCGDWMuVDDakIYOrW5Rj2qQhg/3rlESLNCGEUIuT+vGkIYSjG5QcAYQhhPWrlHQKJCGFSDuVmrLw==",
+        "resolution": null
+    },
+    "H4": {
+        "center_dac": 38.01940555110221,
+        "center_signal": 0.008372030062327476,
+        "high_dac": 38.050463667334675,
+        "high_resolving_power": 1883.3989454362365,
+        "high_signal": 0.0015913815353696629,
+        "low_dac": 37.988347434869745,
+        "low_resolving_power": 1857.6471066039246,
+        "low_signal": 0.0015922741026592902,
+        "points": "QhfTfbiFVzJCF9imuJBlIEIX3c+4niLBQhfi+bh9vCtCF+giuF4aekIX7Us4+RT+QhfydDqEt+9CF/eeO1lJUUIX/Mc7xzQKQhgB8Dv5Zp9CGAcZPASoB0IYDEI8ByRVQhgRbDwIWj5CGBaVPAhmDkIYG748CSo6Qhgg5zwHIWVCGCYQO/nUSUIYKzo7wTgkQhgwYztKvyZCGDWMOoGeMEIYOrU5hsyHQhg/3jiNOAxCGEUIuCpQqUIYSjG4GgniQhhPWridRQVCGFSDuKztcg==",
+        "resolution": 532.05093863925
+    },
+    "L4": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhfTfTKJcF9CF9imMwlwX0IX3c8AAAAAQhfi+QAAAABCF+giAAAAAEIX7UsAAAAAQhfydDRwhKdCF/eeNZzELUIX/Mc2gew6QhgB8DcVQAdCGAcZNzoGmUIYDEI3QLyWQhgRbDdAMyVCGBaVN01aZkIYG743UWExQhgg5zdGpGpCGCYQNzChakIYKzo21BBjQhgwYzYWUuhCGDWMNYdKnkIYOrU0xZGJQhg/3jOrzHdCGEUINAlwX0IYSjEzTiiPQhhPWjMJcF9CGFSDAAAAAA==",
+        "resolution": null
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H4",
+    "reference_isotope": "Ar40"
+}
